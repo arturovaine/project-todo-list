@@ -111,7 +111,7 @@
 
 ### 13 - Adicionar dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas
 
-    Pontos importantes sobre este requisito bônus:
+    Pontos importantes sobre este requisito adicional:
 
     * Antes de começar a desenvolver essa funcionalidade, pare e pense. O que significa mover um item de uma lista para cima ou para baixo no **_DOM_**? Você já possui todas as habilidades necessárias para fazer isso.
 
